@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Virender Kumar</h1>
 <h3 align="center">I'm a Computer Science Student from India.</h3>
-## 🙋‍♂️ About Me
-- 🔭 I’m currently studying in  *GRAPHIC ERA HILL UNIVERSITY,DDN*
-- 🌱 I’m currently learning  *BLOCKCHAIN and AI*
-- 👯 I’m looking to collaborate on *OpenSource Projects*
-- 📫 How to reach me *virender41963749@gmail.com*
-- ⚡  *I like playing  pc games and loves travelling a lot.*
+## 🙋‍♂️ About Me </br>
+- 🔭 I’m currently studying in  *GRAPHIC ERA HILL UNIVERSITY,DDN* </br>
+- 🌱 I’m currently learning  *BLOCKCHAIN* </br>
+- 👯 I’m looking to collaborate on *OpenSource Projects*</br>
+- 📫 How to reach me *virender41963749@gmail.com*</br>
+- ⚡  *I like playing  pc games and loves travelling a lot.*</br>
 <p align="center">
     <a href="https://github.com/viren849/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="viren849's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=viren849&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
